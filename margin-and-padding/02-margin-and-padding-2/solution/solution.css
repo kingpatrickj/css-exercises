@@ -5,6 +5,7 @@ body {
 
 .card {
   width: 400px;
+  padding: 50px;
   background: #fff;
   margin: 16px auto;
 }
